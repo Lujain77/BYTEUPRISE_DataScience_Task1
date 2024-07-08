@@ -15,8 +15,7 @@ A histogram is used to display the distribution of a continuous variable, such a
     plt.xlabel('x1')
     plt.ylabel('Frequency')
     plt.grid(True)
-    ```
-  - Display the plot: `plt.show()`
+    plt.show()
 
 Bar Chart for Categorical Variable (y): 
 
@@ -27,8 +26,7 @@ A bar chart is ideal for visualizing the counts of categories within a categoric
     plt.xlabel('y')
     plt.ylabel('Count')
     plt.grid(True)
-    ```
-  - Display the plot: `plt.show()`
+    plt.show()
 
 Conclusion : 
 
